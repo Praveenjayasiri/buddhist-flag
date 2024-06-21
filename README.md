@@ -2,6 +2,9 @@
 
 The Buddhist Flag project aims to showcase the symbolism and design of the Buddhist flag through a simple HTML and CSS implementation. This README provides an overview of the project structure, how to use it, and its features.
 
+# Live Demo
+https://praveenjayasiri.github.io/buddhist-flag/
+
 ## Features
 
 - Displays the Buddhist flag using HTML and CSS.
